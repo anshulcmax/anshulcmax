@@ -19,8 +19,7 @@ Over the years, I’ve worked across various analytics and marketing roles where
 📍 Location: Atlanta, GA (open to remote work)
 
 [📄 View my resume](https://docs.google.com/document/d/1ZqZdhhjQA5eWLOFzRwRbgzp_74aYp7wCy7bORboFBUw/edit?usp=sharing)  
-📬 Connect with me: [LinkedIn]([https://www.linkedin.com/in/anshul-chandwadkar-65b660331](https://www.linkedin.com/in/anshul-chandwadkar-65b660331/)](https://www.linkedin.com/in/anshul-chandwadkar-65b660331/))
-
+📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/anshul-chandwadkar-65b660331/)
 ---
 
 ### 🚀 Tech Stack
