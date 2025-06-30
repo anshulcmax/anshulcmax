@@ -13,7 +13,7 @@ Over the years, I’ve worked across various analytics and marketing roles where
 
 🤝 I’m open to collaborating on data projects and freelancing work  
 🔍 Currently seeking entry-level **data analyst** opportunities  
-🐶 Fun facts: I enjoy street photography, entrepreneurship, and a good cup of chai  
+🐶 Fun facts: I enjoy the gym, entrepreneurship, and a gaming.  
 🎯 2025 goals: Land a data role with a growth-oriented company and expand my agency!
 
 📍 Location: Atlanta, GA (open to remote work)
