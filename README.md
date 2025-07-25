@@ -1,6 +1,6 @@
 # Hello 👋 This is Anshul Chandwadkar
 
-I'm Anshul, a data analyst and marketing agency owner who just graduated from the TripleTen Business Intelligence Analyst program. I enjoy solving business problems using data. My skills include Python, SQL, Spreadsheets, Tableau, and data storytelling.
+I'm Anshul, a data analyst and marketing agency owner who just graduated from the TripleTen Business Intelligence Analyst program. Im an aspiring data junkie and continuing to learn more about the field. My skills include Python, SQL, Spreadsheets, Tableau, and data storytelling.
 
 Over the years, I’ve worked across various analytics and marketing roles where I honed my ability to turn raw data into meaningful insights. I’m passionate about business growth, performance optimization, and data-driven decision-making.
 
